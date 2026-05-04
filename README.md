@@ -8,8 +8,9 @@ I will be using this repository to share projects I am working on as I learn. Ma
 
 ## Currently working on
 
-1. Working through the Memory Management course in C on boot.dev, and reading _Beej's Guide to C_ (linked above) to help.
-2. Starting on a personal project in python (starting a repo for that soon)
+1. Learning JavaScript through the [Boot.dev Learn JavaScript course](https://www.boot.dev/courses/learn-javascript))
+2. Learning HTML and CSS through the [freeCodeCamp Responsive Web Design Certification](https://www.freecodecamp.org/learn/responsive-web-design-v9/)
+3. Working on a personal project in python, a coding log; [repo for this project here on Github](https://github.com/rhytidia/coding_log_python)
 
 
 ## Profile image
