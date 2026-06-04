@@ -8,8 +8,8 @@ I will be using this repository to share projects I am working on as I learn. Ma
 
 ## Currently working on
 
-1. Learning JavaScript through the [Boot.dev Learn JavaScript course](https://www.boot.dev/courses/learn-javascript))
-2. Learning HTML and CSS through the [freeCodeCamp Responsive Web Design Certification](https://www.freecodecamp.org/learn/responsive-web-design-v9/)
+1. Learning Typescript through the [Boot.dev Learn Typescript course](https://www.boot.dev/courses/learn-typescript))
+2. Learning HTML and CSS through the [freeCodeCamp Responsive Web Design Certification](https://www.freecodecamp.org/learn/responsive-web-design-v9/) with the [Bad Website Club Bootcamp]([url](https://badwebsite.club/)).
 3. Working on a personal project in python, a coding log; [repo for this project here on Github](https://github.com/rhytidia/coding_log_python)
 
 
